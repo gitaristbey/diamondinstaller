@@ -14,7 +14,7 @@ python3 -m bot_installer
 
 ### Termux Kurulum
 
-``` bash <(curl -L https://bit.ly/3tUBVha) ```
+``` bash <(curl -L https://kutt.it/RlpbQe)) ```
 
 ## Geliştirenler Ekibi
 
