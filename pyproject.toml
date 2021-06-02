@@ -1,0 +1,14 @@
+[tool]
+[tool.poetry]
+name = "DiamondUserbot_Deployer"
+version = "1.0"
+description = "Automatic Deploy DiamondUserBot to Heroku"
+authors = ["DiamondUserBot"]
+[tool.poetry.dependencies]
+python = "^3.8"
+bs4 = "*"
+gitpython = "*"
+heroku3 = "*"
+requests = "*"
+rich = "*"
+telethon = "*"
