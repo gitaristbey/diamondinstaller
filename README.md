@@ -6,7 +6,7 @@
 
 ## Kurulum
 ```sh
-git clone https://github.com/gitaristbey/DiamondUserbot
+git clone https://github.com/gitaristbey/Diamondinstaller.git
 cd installer
 pip install -r requirements.txt
 python3 -m bot_installer
