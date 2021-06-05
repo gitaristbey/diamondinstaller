@@ -28,4 +28,4 @@ def importlang ():
     return COUNTRY, LANGUAGE, TZ
 
 COUNTRY, LANGUAGE, TZ = importlang()
-LANG = loads(open(f"./bot_installer/language/{LANGUAGE}.diamondjson", "r").read())["STRINGS"]
+LANG = loads(open(f"./bot_installer/language/{LANGUAGE}.json", "r").read())["STRINGS"]
