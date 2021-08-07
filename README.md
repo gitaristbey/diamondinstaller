@@ -19,7 +19,6 @@ python3 -m bot_installer
 ## Geliştirenler Ekibi
 
 [![GitaristBey](https://t.me/gitaristbey)
-[![UluBey](https://t.me/reis_ulubeyy)
 [![Harold](https://t.me/Gryffindor0Harold)
 [![Erzurumlu](https://t.me/ByMisakiMey)
 [![Bodrumlu](https://t.me/Bodrumlubebekk)
